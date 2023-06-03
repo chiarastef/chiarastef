@@ -34,7 +34,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chiarastefanelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiarastefanelli" height="30" width="40" /></a>
+<a href="https://chiarastefanelli.netlify.app/" target="blank" title="Portfolio website"><img align="center" src="https://chiarastefanelli.netlify.app/assets/img/flower.ico" alt="chiarastefanelli" height="30" /></a>
+<a href="https://linkedin.com/in/chiarastefanelli" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiarastefanelli" height="30" width="40" /></a>
 </p>
 
 <br />
