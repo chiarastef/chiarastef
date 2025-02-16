@@ -1,8 +1,8 @@
 <h2>Hey there, I'm Chiara! 🌸</h2>
 
-<p>I'm currently doing an internship as a front end developer, working with HTML, CSS, JavaScript, TypeScript and React.</p>
+<p>I'm currently working as a web developer, using HTML, CSS, JavaScript, TypeScript, React and C#.</p>
 
-<p>I started learning front end development in 2021 during my last year of university. Since then, I took some online courses, I watched many YouTube tutorials and I practiced as much as I could. In 2022, I started the Front End Development master's program offered by the online training school <a href="https://www.start2impact.it/">start2impact University</a>. I finished the course at the beginning of 2023 and now I'm continuing to learn and practice. At the moment, I'm focusing on front end technologies, but I hope to further explore some back end languages as well.</p>
+<p>I started learning front-end development in 2021 during my last year of university. Since then, I have taken online courses, watched many YouTube tutorials and practised as much as possible. In 2022, I started the Front End Development master's program offered by the online training school <a href="https://www.start2impact.it/">start2impact University</a>. I finished the course at the beginning of 2023 and am now continuing to learn and practice. At the moment, I'm focusing on front-end technologies, but I hope to further explore some back end languages as well.</p>
 
 <h3>Languages and Tools:</h3>
 <div>
@@ -34,7 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://chiarastefanelli.netlify.app/" target="blank" title="Portfolio website"><img align="center" src="https://chiarastefanelli.netlify.app/assets/img/flower.ico" alt="chiarastefanelli" height="30" /></a>
+<a href="https://chiarastefanelli.netlify.app/" target="blank" title="Portfolio website"><img align="center" src="https://chiarastefanelli.netlify.app/assets/favicon-CARfx87C.png" alt="Personal porfolio" height="30" /></a>
 <a href="https://linkedin.com/in/chiarastefanelli" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiarastefanelli" height="30" width="40" /></a>
 </p>
 
