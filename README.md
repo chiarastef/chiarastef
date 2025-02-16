@@ -40,6 +40,6 @@
 
 <br />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiarastef&" alt="chiarastef" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiarastef" alt="" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiarastef&show_icons=true&locale=en&layout=compact" alt="chiarastef" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiarastef&show_icons=true&locale=en&layout=compact" alt="" />
