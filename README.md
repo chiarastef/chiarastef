@@ -2,7 +2,7 @@
 
 I'm a developer with a passion for front-end. I mainly work with React and TypeScript, and I also have some experience with C# on the back-end side.</p>
 
-I studied foreign languages at university, but in 2021 I discovered a passion for front-end development and started learning through online courses and hands-on practice. In 2022, I completed the Front End Development master's program at <a href="https://www.start2impact.it/">start2impact University</a>. I'm always looking for new things to learn and build.
+I studied foreign languages at university, but in 2021 I discovered a passion for front-end development and started learning through online courses and hands-on practice. In 2022, I completed the Front End Development master's program at <a href="https://www.start2impact.it/">start2impact</a>, an Italian online school specialising in digital education. I'm always looking for new things to learn and build.
 
 ## Languages and Tools:
 | | | | | | | | | |
